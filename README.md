@@ -1,24 +1,6 @@
-# README
+# Devise & 日本語化 & Bootstrap
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- 次の記事のサンプルコードです。
 
-Things you may want to cover:
+[【Qiita】Deviseでログイン機能を追加・日本語化・Bootstrap4適用まで](https://qiita.com/take18k_tech/items/a36d77316e32a6696205)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
