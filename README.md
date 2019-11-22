@@ -1,24 +1,23 @@
-# README
+# ログイン機能サンプルコード
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+次の記事・動画のサンプルコードです。
 
-Things you may want to cover:
+【Qiita】
 
-* Ruby version
+- [Deviseでログイン機能を追加・日本語化・Bootstrap4適用まで](https://qiita.com/take18k_tech/items/a36d77316e32a6696205)
 
-* System dependencies
+【YouTube】
 
-* Configuration
+- [【Rails】ログイン機能（Devise・日本語化・Bootstrap4）1/4](https://youtu.be/jr8UxXIR1HU)
 
-* Database creation
+```
+$ git clone https://github.com/T-Tsujii/devise_sample.git
+```
 
-* Database initialization
+## 開発環境
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- macOS Catalina 10.15.1
+- Ruby 2.6.4
+- Rails 5.2.3
+- Bootstrap 4.3.1
+- Devise 4.7.1

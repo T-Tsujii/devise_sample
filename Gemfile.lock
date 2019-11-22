@@ -70,10 +70,8 @@ GEM
       railties (>= 4.1.0)
       responders
       warden (~> 1.2.3)
-    devise-bootstrap-views (1.1.0)
     devise-i18n (1.8.2)
       devise (>= 4.6)
-    devise-i18n-views (0.3.7)
     erubi (1.9.0)
     execjs (2.7.0)
     ffi (1.11.1)
@@ -209,16 +207,14 @@ DEPENDENCIES
   byebug
   coffee-rails (~> 4.2)
   devise
-  devise-bootstrap-views (~> 1.0)
   devise-i18n
-  devise-i18n-views
   jbuilder (~> 2.5)
   jquery-rails
   listen (>= 3.0.5, < 3.2)
   pg (>= 0.18, < 2.0)
   puma (~> 3.11)
   rails (~> 5.2.3)
-  rails-i18n
+  rails-i18n (~> 5.1)
   sass-rails (~> 5.0)
   spring
   spring-watcher-listen (~> 2.0.0)
